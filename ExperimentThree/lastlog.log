@@ -1,0 +1,72 @@
+8/24/2016 1:27:43 PM AutoSave successfully loaded: last.autosave
+8/24/2016 1:27:43 PM New State: MainMenu_Intro01
+8/24/2016 1:27:44 PM New State: MainMenu_Intro02
+8/24/2016 1:27:44 PM New State: MainMenu_Intro03
+8/24/2016 1:27:45 PM New State: MainMenu_WaitForBegin
+8/24/2016 1:27:45 PM Autosave Created.
+8/24/2016 1:27:45 PM GameVersion: 5
+8/24/2016 1:27:45 PM GameState: 100
+8/24/2016 1:27:45 PM New State: ObjectManipPerph
+8/24/2016 1:27:45 PM New State: ObjectManipPerph_Intro1
+8/24/2016 1:27:45 PM New State: ObjectManipPerph_Intro2
+8/24/2016 1:27:45 PM New State: ObjectManipPerph_Intro3
+8/24/2016 1:27:45 PM New State: ObjectManipPerph_Test
+8/24/2016 1:27:46 PM New State: ObjectManipPerph_Question
+8/24/2016 1:27:46 PM Autosave Created.
+8/24/2016 1:27:46 PM GameVersion: 5
+8/24/2016 1:27:46 PM GameState: 200
+8/24/2016 1:27:46 PM New State: ObjectManipCirc
+8/24/2016 1:27:46 PM New State: ObjectManipCirc_Intro1
+8/24/2016 1:27:46 PM New State: ObjectManipCirc_Test
+8/24/2016 1:27:47 PM New State: ObjectManipCirc_Question
+8/24/2016 1:27:48 PM Autosave Created.
+8/24/2016 1:27:48 PM GameVersion: 5
+8/24/2016 1:27:48 PM GameState: 300
+8/24/2016 1:27:48 PM New State: TowerDefenceHead
+8/24/2016 1:27:48 PM New State: TowerDefenceHead_Intro01
+8/24/2016 1:27:48 PM New State: TowerDefenceHead_Intro02
+8/24/2016 1:27:48 PM New State: TowerDefenceHead_Intro03
+8/24/2016 1:27:49 PM New State: TowerDefenceHead_Intro04
+8/24/2016 1:27:49 PM New State: TowerDefenceHead_Intro05
+8/24/2016 1:27:49 PM New State: TowerDefenceHead_Intro06
+8/24/2016 1:27:50 PM TowerDefence: Level State Set To: InitialConstruction
+8/24/2016 1:27:50 PM New State: TowerDefenceHead_Test
+8/24/2016 1:27:50 PM New State: TowerDefenceHead_Question1
+8/24/2016 1:27:51 PM Autosave Created.
+8/24/2016 1:27:51 PM GameVersion: 5
+8/24/2016 1:27:51 PM GameState: 400
+8/24/2016 1:27:51 PM New State: TowerDefenceControl
+8/24/2016 1:27:51 PM New State: TowerDefenceControl_Intro
+8/24/2016 1:27:52 PM TowerDefence: Level State Set To: InitialConstruction
+8/24/2016 1:27:52 PM New State: TowerDefenceControl_Test
+8/24/2016 1:27:53 PM Looking Right. Difference: (1.19968, 27.45346, 11.6414)
+8/24/2016 1:27:57 PM Spawning Tower: 1
+8/24/2016 1:28:01 PM Performing cancel tower.
+8/24/2016 1:28:03 PM Looking Left. Difference: (8.362268, 26.08713, 7.730009)
+8/24/2016 1:28:09 PM Spawning Tower: 1
+8/24/2016 1:28:11 PM Performing cancel tower.
+8/24/2016 1:28:12 PM Looking Right. Difference: (7.547413, 33.60898, 11.43085)
+8/24/2016 1:28:14 PM Spawning Tower: 2
+8/24/2016 1:28:19 PM Performing cancel tower.
+8/24/2016 1:28:21 PM Performing cancel tower.
+8/24/2016 1:28:22 PM Performing cancel tower.
+8/24/2016 1:28:23 PM Performing cancel tower.
+8/24/2016 1:28:23 PM Performing cancel tower.
+8/24/2016 1:28:24 PM Performing cancel tower.
+8/24/2016 1:28:24 PM Performing cancel tower.
+8/24/2016 1:28:24 PM Performing cancel tower.
+8/24/2016 1:28:24 PM Performing cancel tower.
+8/24/2016 1:28:26 PM Performing cancel tower.
+8/24/2016 1:28:27 PM Performing cancel tower.
+8/24/2016 1:28:27 PM Performing cancel tower.
+8/24/2016 1:28:27 PM Performing cancel tower.
+8/24/2016 1:28:28 PM Performing cancel tower.
+8/24/2016 1:28:29 PM Moving tower.
+8/24/2016 1:28:31 PM Performing cancel tower.
+8/24/2016 1:28:31 PM Performing cancel tower.
+8/24/2016 1:28:31 PM Performing cancel tower.
+8/24/2016 1:28:31 PM Performing cancel tower.
+8/24/2016 1:28:31 PM Performing cancel tower.
+8/24/2016 1:28:32 PM Loading wave string: 1:0;1:0;1:0;1:0;1:0;1:0;1:0;1:2;1:2;1:0;1:0;1:2;1:2;1:0;1:0;1:0;1:0;1:2;1:2;1:2;1:2;1:0;1:0;1:0;1:0;1:2;1:2;1:2;1:2;-1:-1
+8/24/2016 1:28:32 PM TowerDefence: Level State Set To: FirstWaveSet
+8/24/2016 1:28:32 PM Performing cancel tower.
